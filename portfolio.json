@@ -1,0 +1,369 @@
+{
+  "works": [
+    {
+      "id": 23,
+      "title": "Cosmetico",
+      "about": "It's a template for e-commerce websites of any purpose. The template is characterized by universality, attractiveness and easy customization. The template is not only visually appealing, but also uses the newest trends in coding with the use of html5, css3 and flex. Template contain 5 pages: \"Main\", \"Contacts\", \"Products\", \"Product description\", \"Shopping card\"",
+      "date": "May 10, 2016",
+      "technologys": [
+        {"item" : "HTML5"},
+        {"item" : "SASS"},
+        {"item" : "jQuery"},
+        {"item" : "Flex"},
+        {"item" : "Gulp"},
+        {"item" : "Bower"},
+        {"item" : "BEM-Naming"},
+        {"item" : "Sprites"}
+      ],
+      "link": "portfolio/23_Cosmetico/index.html",
+      "img_src": "img/portfolio/23.jpg",
+      "type": "shop"
+    },
+     {
+      "id": 22,
+      "title": "Portfolio",
+      "about": "It's a simple template that will be helpfull for freelancers or other persons who want to represent their skill, education, personal information and etc. Clean and maintainable code, as well as responsive design, will show you from the best side",
+      "date": "December 20, 2015",
+      "technologys": [
+        {"item" : "HTML5"},
+        {"item" : "SASS"},
+        {"item" : "jQuery"},
+        {"item" : "Flex"},
+        {"item" : "Gulp"},
+        {"item" : "Bower"},
+        {"item" : "BEM-Naming"}
+      ],
+      "link": "portfolio/22_Portfolio/index.html",
+      "img_src": "img/portfolio/22.jpg",
+      "type": "personal"
+    },
+    {
+      "id": 21,
+      "title": "NatGeo",
+      "about": "It's stylish and modern version of redesign of famous site \"National Geographic\". The template is without responsive, but used pure CSS3 and HTML5. Semantic tag names, unbreakable code, accessibility, re used parts of the CSS code, cross-browser compatible",
+      "date": "February 16, 2016",
+      "technologys": [
+        {"item" : "HTML5"},
+        {"item" : "CSS3"},
+        {"item" : "Flex"},
+        {"item" : "Sprites"}
+      ],
+      "link": "portfolio/21_NatGeo/index.html",
+      "img_src": "img/portfolio/21.jpg",
+      "type": "news"
+    },
+    {
+      "id": 20,
+      "title": "Mango shop",
+      "about": "It's a simple template of internet shop for e-commerce without responsive, but used pure CSS3 and HTML5. Semantic tag names, accessibility, pictures optimization and used sprites, cross-browser compatible",
+      "date": "February 10, 2016",
+      "technologys": [
+        {"item" : "HTML5"},
+        {"item" : "CSS3"},
+        {"item" : "Flex"},
+        {"item" : "Sprites"}
+      ],
+      "link": "portfolio/20_Mango_shop/index.html",
+      "img_src": "img/portfolio/20.jpg",
+      "type": "shop"
+    },
+    {
+      "id": 19,
+      "title": "Remote workers",
+      "about": "It's a stylish professional responsive template. It can be used for education portals. Contain big block of specialist with description, block of rating and prices, and news block. This cross-browser compatible responsive mobile template could be the noble choice for any website, mobiles or tablet",
+      "date": "November 3, 2015",
+      "technologys": [
+        {"item" : "HTML5"},
+        {"item" : "SASS"},
+        {"item" : "jQuery"},
+        {"item" : "Flex"},
+        {"item" : "Gulp"},
+        {"item" : "Bower"},
+        {"item" : "BEM-Naming"},
+        {"item" : "Responsive"}
+      ],
+      "link": "portfolio/19_Remote_workers/index.html",
+      "img_src": "img/portfolio/19.jpg",
+      "type": "business"
+    },
+    {
+      "id": 18,
+      "title": "FlatTool",
+      "about": "It's a flat and professional responsive template. This Flat Responsive web template fits perfectly for any corporate website for agencies and creative studios. This HTML5 and CSS3 template gives absolute freedom to modify the theme to your project needs without any attributions",
+      "date": "October 22, 2015",
+      "technologys": [
+        {"item" : "HTML5"},
+        {"item" : "SASS"},
+        {"item" : "jQuery"},
+        {"item" : "Gulp"},
+        {"item" : "Bower"},
+        {"item" : "BEM-Naming"},
+        {"item" : "Responsive"}
+      ],
+      "link": "portfolio/18_FlatTool/index.html",
+      "img_src": "img/portfolio/18.jpg",
+      "type": "landing"
+    },
+    {
+      "id": 17,
+      "title": "Yourlogo",
+      "about": "It's a Bootstrap based website template that's suitable for a business or agency one page website. This template has a minimal design, smooth scrolling animation. Sections include benefits, partners, iPhone carousel gallery and contact form. Used responsive, cross-browser compatible, sections animation, and \"Owl Carousel\" plugin for slider",
+      "date": "October 10, 2015",
+      "technologys": [
+        {"item" : "HTML5"},
+        {"item" : "SASS"},
+        {"item" : "jQuery"},
+        {"item" : "Gulp"},
+        {"item" : "Bower"},
+        {"item" : "BEM-Naming"},
+        {"item" : "Responsive"}
+      ],
+      "link": "portfolio/17_Yourlogo/index.html",
+      "img_src": "img/portfolio/17.jpg",
+      "type": "landing"
+    },
+    {
+      "id": 16,
+      "title": "Octavia",
+      "about": "It's template of landing page to use for your personal and commercial projects, fully editable, super clean and modern one page, and super white. Contain parallax picture in header, successful counter, and description blocks. It can be customized easily to suit your wishes. Responsive and simple",
+      "date": "September 21, 2015",
+      "technologys": [
+        {"item" : "HTML5"},
+        {"item" : "SASS"},
+        {"item" : "jQuery"},
+        {"item" : "Flex"},
+        {"item" : "Compass"},
+        {"item" : "BEM-Naming"},
+        {"item" : "Responsive"}
+      ],
+      "link": "portfolio/16_Octavia/index.html",
+      "img_src": "img/portfolio/16.jpg",
+      "type": "landing"
+    },
+    {
+      "id": 15,
+      "title": "Spirit8",
+      "about": "It's a clean, flat and professional Corporate Multipurpose Template for agencies and creative studios. You can use this template for any type of websites. This web template is built in a Fancy style however it can be used as per the user requirements. Spirit 8 designed with Bootstrap grid system and modern libraries",
+      "date": "September 10, 2015",
+      "technologys": [
+        {"item" : "HTML5"},
+        {"item" : "SASS"},
+        {"item" : "jQuery"},
+        {"item" : "Compass"},
+        {"item" : "Responsive"},
+        {"item" : "Sprites"}
+      ],
+      "link": "portfolio/15_Spirit8/index.html",
+      "img_src": "img/portfolio/15.jpg",
+      "type": "business"
+    },
+    {
+      "id": 14,
+      "title": "Free-Office",
+      "about": "It's good responsive site template. This clean yet elegant design template has been developed using Bootstrap grid system. This template is perfect for any business, corporate or small company site, for introducing your team. Extra speed of download optimization, sprites and minification of code",
+      "date": "September 2, 2015",
+      "technologys": [
+        {"item" : "HTML5"},
+        {"item" : "CSS3"},
+        {"item" : "jQuery"},
+        {"item" : "Responsive"},
+        {"item" : "Sprites"}
+      ],
+      "link": "portfolio/14_FreeOffice/index.html",
+      "img_src": "img/portfolio/14.jpg",
+      "type": "personal"
+    },
+    {
+      "id": 13,
+      "title": "Profile",
+      "about": "It will be useful for artists, photographers, creative agencies, digital studios, personal freelancers, and any kind of business owners that would like to showcase their portfolio beautifully. It’s fully responsive design, looks stunning on any device and perfect for showcasing your work",
+      "date": "August 30, 2015",
+      "technologys": [
+        {"item" : "HTML5"},
+        {"item" : "CSS3"},
+        {"item" : "jQuery"},
+        {"item" : "Responsive"}
+      ],
+      "link": "portfolio/13_Profile/index.html",
+      "img_src": "img/portfolio/13.jpg",
+      "type": "business"
+    },
+    {
+      "id": 12,
+      "title": "Treehouse",
+      "about": "It's a web template that was designed with agencies and small companies in mind. This is bright and spacious design perfect for people or startup companies looking to showcase their apps or other projects. You can use this template for any type of websites. It's template is cross-browser compatible and responsive",
+      "date": "August 20, 2015",
+      "technologys": [
+        {"item" : "HTML5"},
+        {"item" : "CSS3"},
+        {"item" : "jQuery"},
+        {"item" : "Responsive"},
+        {"item" : "Sprites"}
+      ],
+      "link": "portfolio/12_Treehouse/index.html",
+      "img_src": "img/portfolio/12.jpg",
+      "type": "landing"
+    },
+    {
+      "id": 11,
+      "title": "Freelancer",
+      "about": "It's a simple, stylish and easy web template for personal freelancers and any kind of business owners that would like to showcase their portfolio beautifully. This template has a minimal design. Responsive mobile template could be the noble choice for any website, mobiles or tablet",
+      "date": "August 3, 2015",
+      "technologys": [
+        {"item" : "HTML5"},
+        {"item" : "CSS3"},
+        {"item" : "jQuery"},
+        {"item" : "Responsive"},
+        {"item" : "Sprites"}
+      ],
+      "link": "portfolio/11_Freelancer/index.html",
+      "img_src": "img/portfolio/11.jpg",
+      "type": "personal"
+    },
+    {
+      "id": 10,
+      "title": "Elena",
+      "about": "It's a web template with big header. Can be used for e-mail to introduce company, or news from your website. It’s fully responsive design, looks stunning on any device and perfect for showcasing your work. This template doesn't contain difficult element, or animation in this case speed of download this site is very fast",
+      "date": "July 23, 2015",
+      "technologys": [
+        {"item" : "HTML5"},
+        {"item" : "CSS3"},
+        {"item" : "jQuery"},
+        {"item" : "Responsive"},
+        {"item" : "Sprites"}
+      ],
+      "link": "portfolio/10_Elena/index.html",
+      "img_src": "img/portfolio/10.jpg",
+      "type": "news"
+    },
+    {
+      "id": 9,
+      "title": "DarkGames",
+      "about": "This Theme is perfect game review websites with 3 Columns, Dark Black Vector Background, Black, Gray and Orange Colours, Fixed Width, Rounded Corners, Nice Top Header Flash Banner, Left Sidebar and Right Sidebar. It supports all kinds of browsers and quick download options, it has fixed width",
+      "date": "July 10, 2015",
+      "technologys": [
+        {"item" : "HTML5"},
+        {"item" : "CSS3"},
+        {"item" : "jQuery"},
+        {"item" : "Sprites"}
+      ],
+      "link": "portfolio/09_DarkGames/index.html",
+      "img_src": "img/portfolio/09.jpg",
+      "type": "news"
+    },
+    {
+      "id": 8,
+      "title": "Author",
+      "about": "Good example of clean, sharp and simple style suited for personal portfolios as well as corporate and business websites. It’s a great start for your brand. Nice graphic elements. Designed in simple style that would cover the basic needs to any company or person that looks clean and simple website template",
+      "date": "June 21, 2015",
+      "technologys": [
+        {"item" : "HTML5"},
+        {"item" : "CSS3"},
+        {"item" : "jQuery"},
+        {"item" : "Responsive"}
+      ],
+      "link": "portfolio/08_Author/index.html",
+      "img_src": "img/portfolio/08.jpg",
+      "type": "personal"
+    },
+    {
+      "id": 7,
+      "title": "Acrostia",
+      "about": "It's the perfect one page responsive template for corporate, creative studio, portfolio, agency, nonprofit or general business. Template are professional elements in clean-clear-simple design with creative style and smooth navigation. It’s fully responsive design, looks stunning on any device and perfect for showcasing your work",
+      "date": "May 30, 2015",
+      "technologys": [
+        {"item" : "HTML5"},
+        {"item" : "CSS3"},
+        {"item" : "jQuery"},
+        {"item" : "Responsive"}
+      ],
+      "link": "portfolio/07_Acrostia/index.html",
+      "img_src": "img/portfolio/07.jpg",
+      "type": "landing"
+    },
+    {
+      "id": 6,
+      "title": "Marble",
+      "about": "It's a flat, responsive, HTML5 site template with unique portfolio. Marble will be useful for artists, photographers, creative agencies, digital studios, personal freelancers, and any kind of business owners that would like to showcase their portfolio beautifully. Since it is responsive, the layout will adapt to different screen sizes which will make your website be compatible with any device such as smart phones, tablets or desktop computers",
+      "date": "May 5, 2015",
+      "technologys": [
+        {"item" : "HTML5"},
+        {"item" : "CSS3"},
+        {"item" : "jQuery"},
+        {"item" : "Responsive"}
+      ],
+      "link": "portfolio/06_Marble/index.html",
+      "img_src": "img/portfolio/06.jpg",
+      "type": "personal"
+    },
+    {
+      "id": 5,
+      "title": "Landing page",
+      "about": "It's a simple and clean responsive template great for advertising or selling your app, software, retail product or service. It is build using Bootstrap grid and uses only free Google fonts. The code is well commented for easy customization",
+      "date": "April 14, 2015",
+      "technologys": [
+        {"item" : "HTML5"},
+        {"item" : "CSS3"},
+        {"item" : "jQuery"},
+        {"item" : "Responsive"},
+        {"item" : "Sprites"}
+      ],
+      "link": "portfolio/05_Landing_page/index.html",
+      "img_src": "img/portfolio/05.jpg",
+      "type": "landing"
+    },
+    {
+      "id": 4,
+      "title": "Happy handyman",
+      "about": "Handyman has handy hands. This is exactly what our professional template will demonstrate to your customers. It will attract them not only with a harmonic structure and convenient navigation, but also impress with conceptual photos and icons",
+      "date": "March 21, 2015",
+      "technologys": [
+        {"item" : "HTML5"},
+        {"item" : "CSS3"}
+      ],
+      "link": "portfolio/04_Happy_handyman/index.html",
+      "img_src": "img/portfolio/04.jpg",
+      "type": "business"
+    },
+    {
+      "id": 3,
+      "title": "FreeElegance",
+      "about": "It’s a simple template with fixed width for your blog or news website. Contain simple carousel, and a lots of news blocks with pictures and “Learn more” buttons. The simple decision of design provide fast download of template, that can contain a lot text information. Footer can have social connects and latest news",
+      "date": "February 5, 2015",
+      "technologys": [
+        {"item" : "HTML5"},
+        {"item" : "CSS3"}
+      ],
+      "link": "portfolio/03_FreeElegance/index.html",
+      "img_src": "img/portfolio/03.jpg",
+      "type": "news"
+    },
+    {
+      "id": 2,
+      "title": "Lispum Media",
+      "about": "It’s a responsive template with light design and big video-section. Some description section, partners, contacts sections. Responsive template without any grid-system, but compatible with all devices",
+      "date": "January 20, 2015",
+      "technologys": [
+        {"item" : "HTML5"},
+        {"item" : "CSS3"},
+        {"item" : "Sprites"}
+      ],
+      "link": "portfolio/02_Lispum_Media/index.html",
+      "img_src": "img/portfolio/02.jpg",
+      "type": "news"
+    },
+    {
+      "id": 1,
+      "title": "Orange Rabbit",
+      "about": "It’s a simple template with fixed width for your blog or news website. Contain big sections of team and contacts. Fast download and simple design",
+      "date": "January 7, 2015",
+      "technologys": [
+        {"item" : "HTML5"},
+        {"item" : "CSS3"}
+      ],
+      "link": "portfolio/01_Orange_Rabbit/index.html",
+      "img_src": "img/portfolio/01.jpg",
+      "type": "news"
+    }
+  ]
+}
